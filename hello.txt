@@ -10,4 +10,7 @@ hello
 111111
 
 branch
+<<<<<<< HEAD
 master test
+hot fix test
+>>>>>>> hot-fix
